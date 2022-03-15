@@ -3,7 +3,7 @@ LukeText is a text editor made for everyone. LukeText is available for Windows, 
 
 [LukeText Web](https://lukeit.co)
 
-[LukeText for Windows](https://github.com/LukeIT-Net/LukeText-Desktop/releases/download/v1.2/LukeText.Setup.msi)
+[LukeText for Windows](https://github.com/LukeIT-Net/LukeText-Desktop/releases/download/v1.2.1/LukeText.Setup.msi)
 
 [LukeText for Windows 10-11 (Microsoft Store Link)](https://www.microsoft.com/store/productId/9PCRL61LWMKS)
 
